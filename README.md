@@ -3,5 +3,5 @@
 <h1>Basic Web Projects</h1>
 
 <ul>
-    <li><a href="lab 2/index.html" target="_blank">Lab 2</a></li>
-    </ul>
+<li><a href="lab 2/index.html" target="_blank">Lab 2</a></li>
+</ul>
